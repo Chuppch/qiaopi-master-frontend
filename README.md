@@ -28,32 +28,95 @@
 
 <table>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/home.png"/></td>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/home-receive.png"/></td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/home.png" alt="主页" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>主页</b></small>
+        </td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/home-receive.png" alt="收信页面" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>收信页面</b></small>
+        </td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/home-introduce.gif"/></td>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/home-history.gif"/></td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/home-introduce.gif" alt="介绍功能" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>介绍功能</b></small>
+        </td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/home-history.gif" alt="历史功能" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>历史功能</b></small>
+        </td>
     </tr>
     <tr>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/write-letter.gif"/></td>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/nav-ai.png"/></td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/write-letter.gif" alt="写信功能" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>写信功能</b></small>
+        </td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/nav-ai.png" alt="AI导航" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>AI导航</b></small>
+        </td>
     </tr>
 	<tr>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/send-letter.gif"/></td>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/drifting.png"/></td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/send-letter.gif" alt="寄信功能" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>寄信功能</b></small>
+        </td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/drifting.png" alt="漂流瓶" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>漂流瓶</b></small>
+        </td>
     </tr>	 
     <tr>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/game-explore.gif"/></td>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/game-question.gif"/></td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/game-explore.gif" alt="探索游戏" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>探索游戏</b></small>
+        </td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/game-question.gif" alt="问答游戏" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>问答游戏</b></small>
+        </td>
     </tr>
 	<tr>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/shop.gif"/></td>
-        <td><img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/marketing.gif"/></td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/shop.gif" alt="商店" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>商店</b></small>
+        </td>
+        <td align="center" width="50%">
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/init_qiaopi_vue/images/marketing.gif" alt="营销活动" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>营销活动</b></small>
+        </td>
     </tr>
 </table>
 
-
+<table>
+    <tr>
+        <td align="center" width="50%">
+            <img src="docs/image/对齐.gif" alt="对齐功能演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>对齐功能</b></small>
+        </td>
+        <td align="center" width="50%">
+            <img src="docs/image/copy.gif" alt="复制功能演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>快捷键功能</b></small>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">
+            <img src="docs/image/高亮动画.gif" alt="高亮动画演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>高亮动画</b></small>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <img src="docs/image/agent列表.png" alt="Agent列表" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>Agent列表</b></small>
+        </td>
+        <td align="center" width="50%">
+            <img src="docs/image/配置页面.png" alt="配置页面" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <br/><small><b>配置页面</b></small>
+        </td>
+    </tr>
+</table>
 
 ## 快速部署
 
