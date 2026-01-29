@@ -92,27 +92,27 @@
 <table>
     <tr>
         <td align="center" width="50%">
-            <img src="docs/image/对齐.gif" alt="对齐功能演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/docs/image/对齐.gif" alt="对齐功能演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
             <br/><small><b>对齐功能</b></small>
         </td>
         <td align="center" width="50%">
-            <img src="docs/image/copy.gif" alt="复制功能演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/docs/image/copy.gif" alt="复制功能演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
             <br/><small><b>快捷键功能</b></small>
         </td>
     </tr>
     <tr>
         <td align="center" colspan="2">
-            <img src="docs/image/高亮动画.gif" alt="高亮动画演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/docs/image/高亮动画.gif" alt="高亮动画演示" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
             <br/><small><b>高亮动画</b></small>
         </td>
     </tr>
     <tr>
         <td align="center" width="50%">
-            <img src="docs/image/agent列表.png" alt="Agent列表" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/docs/image/agent列表.png" alt="Agent列表" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
             <br/><small><b>Agent列表</b></small>
         </td>
         <td align="center" width="50%">
-            <img src="docs/image/配置页面.png" alt="配置页面" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+            <img src="https://raw.githubusercontent.com/Chuppch/qiaopi-master-frontend/refs/heads/master/docs/image/配置页面.png" alt="配置页面" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
             <br/><small><b>配置页面</b></small>
         </td>
     </tr>
