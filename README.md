@@ -88,7 +88,7 @@
         </td>
     </tr>
 </table>
-
+<hr style="border: none; border-top: 3px solid #ccc;">
 <table>
     <tr>
         <td align="center" width="50%">
